@@ -109,6 +109,19 @@ export default component$(() => {
             </a>
           </td>
         </tr>
+        <tr>
+          <td>
+            <code>npm run qwik add vercel-edge</code>
+          </td>
+          <td>
+            <a
+              href='https://vercel.com/features/edge-functions'
+              target='_blank'
+            >
+              Vercel Edge Functions
+            </a>
+          </td>
+        </tr>
       </table>
 
       <h2>Community</h2>
